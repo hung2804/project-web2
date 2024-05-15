@@ -1,0 +1,21 @@
+
+      
+        .order-details {
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 10px;
+            background-color: #f8f9fa;
+        }
+        .order-details h5.card-title {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .order-details p {
+            font-size: 18px;
+            margin-bottom: 5px;
+        }
+        .order-details img {
+            width: 150px;
+            height: 150px;
+            margin-top: 10px;
+        }
